@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: #fdfdfd;
+    background-image: linear-gradient(#484e57, #60677c, #484e57);
+}
+.money div{
+   background-color:#ffffff; 
+}
+.money h3{
+    color:#131313;
+    text-align: center; 
+}
+.money input{
+  border: 1px solid #e8e6e6;
+  padding: 10px 0px;
+  font-size: 1px;
+  border-radius: 100px;
+  
+}
+.money input[type='number']{
+    font-size: 20px;
+    text-align: center;
+}
+
